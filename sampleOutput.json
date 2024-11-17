@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Suzanne O'Halloran",
+            "title": "Trump's win gives US stocks best week of the year - Fox Business",
+            "description": "A Trump victory sent stock investors into beast buying mode, which was broad in nature with most sectors seeing big gains, minus the more defensive areas.",
+            "url": "https://www.foxbusiness.com/markets/trump-win-gives-u-s-stocks-best-week-year",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/0/0/gettyimages-2182525997.jpg?ve=1&tl=1",
+            "publishedAt": "2024-11-09T13:00:00Z",
+            "content": "The red wave that catapulted President-elect Trump to a second term created a green money wave for U.S. investors.  \r\nThe Dow Jones Industrial Average and the S&amp;P 500 notched fresh record highs F… [+5162 chars]"
+        } 
+    ]
+}
